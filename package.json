@@ -1,0 +1,11 @@
+{
+  "name": "zakat-ts-zuru-harvest-ushr",
+  "version": "1.0.0",
+  "description": "Agricultural Zuru' & Thimar Ushr (10% / 5% / 7.5%) Calculator (حاسبة زكاة الزروع والثمار بالعشر أو نصف العشر)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
